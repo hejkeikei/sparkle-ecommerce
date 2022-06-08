@@ -49,8 +49,8 @@ The site should have:
 - Design System
   ![components](design/designSystem/designSystem_components.png)
 - Wireframe
-  ![desktop](design/wireframe/sparkle_Desktop.pdf)
-  ![mobile](<design/wireframe/sparkle_Mobile(320px).pdf>)
+  [desktop](design/wireframe/sparkle_Desktop.pdf)
+  [mobile](<design/wireframe/sparkle_Mobile(320px).pdf>)
 
 ### Links
 
@@ -166,8 +166,8 @@ if (isset($_GET['save'])) {
 
 ### Useful resources
 
-- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/).
-- [How to keep your footer where it belongs ?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
+- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [How to keep your footer where it belongs ?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 - [Checkbox Filter With Vanilla JavaScript](https://medium.com/swlh/building-a-checkbox-filter-with-vanilla-javascript-29153cf466bd)
 - [PHP explode](https://www.php.net/manual/en/function.explode.php)
 
