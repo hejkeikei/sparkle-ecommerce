@@ -49,8 +49,8 @@ The site should have:
 - Design System
   ![components](design/designSystem/designSystem_components.png)
 - Wireframe
-  [desktop](design/wireframe/sparkle_Desktop.pdf)
-  [mobile](<design/wireframe/sparkle_Mobile(320px).pdf>)
+  - [desktop](design/wireframe/sparkle_Desktop.pdf)
+  - [mobile](<design/wireframe/sparkle_Mobile(320px).pdf>)
 
 ### Links
 
