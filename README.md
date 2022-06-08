@@ -44,13 +44,13 @@ The site should have:
 ### Design
 
 - Screenshot
-  ![landing page screenshot](.design/screenshot/landingpage.png)
-  ![product page screenshot](.design/screenshot/ProductPage.png)
+  ![landing page screenshot](design/screenshot/landingpage.png)
+  ![product page screenshot](design/screenshot/ProductPage.png)
 - Design System
-  ![components](.design/designSystem/designSystem_components.png)
+  ![components](design/designSystem/designSystem_components.png)
 - Wireframe
-  ![desktop](.design/wireframe/sparkle_Desktop.pdf)
-  ![mobile](<.design/wireframe/sparkle_Mobile(320px).pdf>)
+  ![desktop](design/wireframe/sparkle_Desktop.pdf)
+  ![mobile](<design/wireframe/sparkle_Mobile(320px).pdf>)
 
 ### Links
 
